@@ -1,0 +1,15 @@
+.contact_claim {
+  display: flex;
+  justify-content: space-between;
+  padding:10px;
+  margin-top: 10%;
+}
+.contact_claim a{
+  text-decoration: none;
+  color:rgba(60, 60, 60, 0.8);
+  padding:15px;
+}
+.contact_claim a:hover{
+  color:rgba(60, 60, 60, 1);
+  transform: scale(1.1);
+}

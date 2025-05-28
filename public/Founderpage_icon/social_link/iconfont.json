@@ -1,0 +1,44 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1469225",
+      "name": "github",
+      "font_class": "github",
+      "unicode": "e85a",
+      "unicode_decimal": 59482
+    },
+    {
+      "icon_id": "7239588",
+      "name": "youtube",
+      "font_class": "youtube",
+      "unicode": "e711",
+      "unicode_decimal": 59153
+    },
+    {
+      "icon_id": "8345672",
+      "name": "领英",
+      "font_class": "lingying",
+      "unicode": "e731",
+      "unicode_decimal": 59185
+    },
+    {
+      "icon_id": "30276416",
+      "name": "whats app",
+      "font_class": "a-whatsapp",
+      "unicode": "e58a",
+      "unicode_decimal": 58762
+    },
+    {
+      "icon_id": "40580264",
+      "name": "tuite",
+      "font_class": "tuite",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    }
+  ]
+}
