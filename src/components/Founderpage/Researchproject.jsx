@@ -35,28 +35,19 @@ export default function Researchproject() {
                         <div className={styles.img2_project_info} >
                             <div className={styles.img2_projects} >
                                 <div className={styles.img2_projects_content}>
-                                    <p>Development of an Open Trading World(Metaverse).
+                                    <p>Metaverse Development.
                                     </p>
-                                    <p>This project aims to build a decentralized metaverse economic system,
-                                        utilizing blockchain technology to create cross-chain transaction spaces and models,
-                                        ensuring asset flow and value exchange across multiple blockchain networks.
+                                    <p>The core focus is building a native on-chain mixing protocol on the trading chain Hyperliquid.
+                                        By introducing transaction obfuscation mechanisms, zero-knowledge proofs, and address shuffling strategies,
+                                        the protocol enhances the verifiable anonymity of on-chain transaction data and ensures privacy-preserving and untraceable fund flows.
                                         <br></br>
                                         <br></br>
-                                        The core logic of the system is to leverage a decentralized finance (DeFi) architecture
-                                        to enhance the transparency of on-chain data,
-                                        reduce the opaque risks of "black-box" operations,
-                                        and ensure the fairness and traceability of the transaction process.
+                                        In parallel, the project advances the development of on-chain wallet infrastructure tailored for multi-chain asset management.
+                                        Centered around a Layer 2 asset mapping architecture, it enables account abstraction and unified asset management across chains
+                                        and asset types, facilitating the construction of decentralized wallets that improve user control, privacy, and cross-chain interoperability.
                                         <br></br>
                                         <br></br>
-                                        Additionally, we integrate user data and behavior models,
-                                        using artificial intelligence (AI) technology to create
-                                        personalized user profiles.
-                                        <br></br>
-                                        <br></br>
-                                        Machine learning and data mining techniques are employed
-                                        to deeply analyze user preferences, behavioral patterns,
-                                        and risk characteristics, enabling personalized service
-                                        recommendations and intelligent trading decision support.
+                                        To further augment the system’s intelligence, an AI plugin-based architecture is integrated to perform on-chain user behavior recognition and risk profiling.
 
                                     </p>
                                 </div>
