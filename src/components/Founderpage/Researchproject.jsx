@@ -37,18 +37,17 @@ export default function Researchproject() {
                                 <div className={styles.img2_projects_content}>
                                     <p>Metaverse Development.
                                     </p>
-                                    <p>The core focus is building a native on-chain mixing protocol on the trading chain Hyperliquid.
-                                        By introducing transaction obfuscation mechanisms, zero-knowledge proofs, and address shuffling strategies,
-                                        the protocol enhances the verifiable anonymity of on-chain transaction data and ensures privacy-preserving and untraceable fund flows.
+                                    <p>This project focuses on building a native on-chain privacy enhancement mechanism on Hyperliquid, integrating data
+                                        management strategies, zero-knowledge proofs, and address mapping obfuscation to significantly improve user privacy
+                                        and security during transactions, thereby mitigating potential traceability risks in open blockchain environments.
                                         <br></br>
                                         <br></br>
-                                        In parallel, the project advances the development of on-chain wallet infrastructure tailored for multi-chain asset management.
-                                        Centered around a Layer 2 asset mapping architecture, it enables account abstraction and unified asset management across chains
-                                        and asset types, facilitating the construction of decentralized wallets that improve user control, privacy, and cross-chain interoperability.
+                                        Concurrently, it develops multi-chain wallet infrastructure based on a Layer 2 asset mapping layer, enabling account
+                                        abstraction and unified asset control across chains.
                                         <br></br>
                                         <br></br>
-                                        To further augment the system’s intelligence, an AI plugin-based architecture is integrated to perform on-chain user behavior recognition and risk profiling.
-
+                                        An AI-driven module augments the system by modeling on-chain user behavior and risk preferences, integrated with a
+                                        custom backtesting engine for personalized strategy simulation and decision support
                                     </p>
                                 </div>
 
@@ -79,7 +78,7 @@ export default function Researchproject() {
                         </div>
                         <div className={styles.research_info}>
                             <p>
-                                FinBERt-M1o1 leverages the pre-trained BERT (Transformer) model
+                                FinBERT-M1o1 leverages the pre-trained BERT (Transformer) model
                                 for aggregating and delivering real-time financial market information,
                                 utilizing sentiment analysis and natural language processing techniques to analyze market dynamics.
                             </p>

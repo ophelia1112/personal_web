@@ -16,7 +16,7 @@ export default function Introduction() {
                 <br></br>
                 <br></br>
                 In the future, I plan to optimize and deepen my research in areas like
-                user credit assessment, fraud detection, user profiling,
+                user credit assessment, user profiling,
                 advanced algorithmic trading, and the white-box transformation
                 of financial simulation models.
                 <br></br>
