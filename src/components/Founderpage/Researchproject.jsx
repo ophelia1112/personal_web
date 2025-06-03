@@ -78,7 +78,7 @@ export default function Researchproject() {
                         </div>
                         <div className={styles.research_info}>
                             <p>
-                                FinBERT-M1o1 leverages the pre-trained BERT (Transformer) model
+                                FinBERT-M1 leverages the pre-trained BERT (Transformer) model
                                 for aggregating and delivering real-time financial market information,
                                 utilizing sentiment analysis and natural language processing techniques to analyze market dynamics.
                             </p>
